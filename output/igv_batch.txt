@@ -1,0 +1,14 @@
+new
+genome hg38
+load /home/kanis/microdna-project/data/SRR413984.sorted.NC_000001.10.bam
+snapshotDirectory /home/kanis/microdna-project/output/snaps
+
+goto NC_000001.10:121485275-121485487
+sleep 2
+snapshot circle_1_NC_000001.10_121485375_121485387.png
+
+goto NC_000001.10:121484719-121485456
+sleep 2
+snapshot circle_2_NC_000001.10_121484819_121485356.png
+
+exit

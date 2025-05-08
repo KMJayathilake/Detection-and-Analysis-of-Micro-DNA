@@ -1,0 +1,3 @@
+chrom	start	end	size_bp	support	tag_agreement	depth_ratio	score
+NC_000001.10	121484819	121485356	537	2	1.0	1.577	2.789
+NC_000001.10	121485375	121485387	12	2	1.0	1.622	2.811
